@@ -1,0 +1,56 @@
+body {
+  font-family: cursive;
+  text-align: center;
+  padding-top: 50px;
+  background-color: rgb(10, 107, 74);
+}
+p {
+  font-size: 20px;
+  color: white;
+}
+button {
+  border: 6px solid rgb(223, 230, 227);
+  border-radius: 20px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 36px;
+  font-weight: bold;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.Happy {
+  background-color: rgb(255, 223, 88);
+}
+.Excited {
+  background-color: rgb(255, 153, 0);
+}
+.calm {
+  background-color: rgb(153, 204, 204);
+}
+.tired {
+  background-color: rgb(96, 125, 139);
+}
+.sad {
+  background-color: rgb(84, 110, 122);
+}
+#message {
+  margin-top: 30px;
+  font-size: 24px;
+  font-weight: bold;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+
+  color: white;
+  padding: 10px;
+}
+#reset {
+  margin-top: 20px;
+  background-color: #eee;
+  color: #333;
+}
